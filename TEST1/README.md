@@ -1,0 +1,11 @@
+# TEST1
+STUDY 1150506
+
+
+
+建立新的倉庫教學方式
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/asd99811/TEST1.git
+git push -u origin master
