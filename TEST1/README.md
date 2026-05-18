@@ -1,11 +1,1 @@
-# TEST1
-STUDY 1150506
-
-
-
-建立新的倉庫教學方式
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/asd99811/TEST1.git
-git push -u origin master
+我想要設計一個html的小程式，他將會用於整理現場勘查的照片和說明。他的架構會像google map一樣，會有一個主視窗，我在那個主視窗放上PDF或照片，使用者可以在主視窗放大縮小確認影像。且可以該畫面中的放上標籤，當使用者點擊標籤後，會跳出另外一個視窗，視窗中可以寫上註解、時間、照片...等資訊。
